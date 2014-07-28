@@ -1,3 +1,6 @@
+@echo off
+
+
 start firefox
 
 call firefox https://www.facebook.com/todayinhistory?year=2013
