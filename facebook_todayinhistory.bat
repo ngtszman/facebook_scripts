@@ -3,6 +3,9 @@
 
 start firefox
 
+timeout /t 3
+
+
 call firefox https://www.facebook.com/todayinhistory?year=2013
 call firefox https://www.facebook.com/todayinhistory?year=2012
 call firefox https://www.facebook.com/todayinhistory?year=2011
